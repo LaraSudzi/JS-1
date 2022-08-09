@@ -1,10 +1,10 @@
 
 
-let p = 80;
+let a = 8;
 
-p = p * 4;
+a = a * a * a;
 
-console.log (p, typeof (p));
+console.log (a, typeof (a));
 
 
 
