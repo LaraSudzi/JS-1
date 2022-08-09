@@ -1,16 +1,14 @@
 
 
-let a = 8;
+let r = 100 ;
 
-a = a * a * a;
+let pi = 3.14;
 
-console.log (a, typeof (a));
+r = 2 * pi * r;
 
-let S = 3;
+console.log (r, typeof (r));
 
-S = S * S ;
 
-console.log (S, typeof (S));
 
 
 
