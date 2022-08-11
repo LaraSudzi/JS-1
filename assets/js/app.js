@@ -1,16 +1,12 @@
 
+let k1 = 5 ;
 
+let k2 = 6;
 
+gip = (k1 * k1) * (k2 * k2) ;
 
+console.log (gip, typeof (gip));
 
-let r = 100 ;
-
-let pi = 3.14;
-
-
-s = pi * (r * r);
-
-console.log (s, typeof (s));
 
 
 
