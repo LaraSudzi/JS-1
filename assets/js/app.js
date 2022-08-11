@@ -1,11 +1,11 @@
 
-let k1 = 5 ;
+let v = 5 ;
 
-let k2 = 6;
+let m = 100 ;
 
-gip = (k1 * k1) * (k2 * k2) ;
+p = m / v ;
 
-console.log (gip, typeof (gip));
+console.log (p, typeof (p));
 
 
 
