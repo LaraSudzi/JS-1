@@ -1,12 +1,19 @@
 
-let people = 200000 ;
+let a = +prompt (`значение a:`);
 
-let s = 10 ;
+console.log(`значение a: ${a}.`);
 
-p = people / s ;
+let y = a * a + 10 / Math.sqrt(a * a + 1);
 
-console.log (p, typeof (p));
+y = y * 100;
 
+y = Math.round(y);
+
+y = y / 100;
+
+console.log(`значение y: ${y}.`);
+
+alert(`значение y: ${y}.`);
 
 
 
