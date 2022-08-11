@@ -1,9 +1,9 @@
 
-let v = 5 ;
+let people = 200000 ;
 
-let m = 100 ;
+let s = 10 ;
 
-p = m / v ;
+p = people / s ;
 
 console.log (p, typeof (p));
 
